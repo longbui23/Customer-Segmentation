@@ -1,3 +1,6 @@
+#Authors
+Long Bui & Allisa Dao
+
 # Ecommerce-Customer-Analysis-and-Segmentation
 
 This repository contains the code and data for the Customers Segementation project. The project aims to divide customers into specific groups based on certain factors. Y
